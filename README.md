@@ -11,5 +11,5 @@
 <a href="http://www.github.com/tathaha"><img src="https://github-readme-stats.vercel.app/api?username=tathaha&show_icons=true&hide=&count_private=true&title_color=64748b&text_color=64748b&icon_color=ef4444&bg_color=171717&hide_border=true&show_icons=true" alt="tathaha's GitHub stats" /></a>
 <a href="http://www.github.com/tathaha"><img src="https://github-readme-streak-stats.herokuapp.com/?user=tathaha&stroke=64748b&background=171717&ring=64748b&fire=64748b&currStreakNum=64748b&currStreakLabel=64748b&sideNums=64748b&sideLabels=64748b&dates=64748b&hide_border=true" /></a>
 <a href="https://github.com/tathaha" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tathaha&langs_count=10&title_color=64748b&text_color=64748b&icon_color=ef4444&bg_color=171717&hide_border=true&locale=en&custom_title=Most%20Used%20Programming%20Languages" alt="Top Langs" /></a>\
-[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tathaha)](https://github.com/tathaha)
+[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=chiraitori)](https://github.com/tathaha)
 
