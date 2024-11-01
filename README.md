@@ -1,16 +1,23 @@
-### Hi there 👋
-This my profile on GitHub
-
+<h1 align="center">Hi 👋, I'm Chiraitori</h1>
+<h3 align="center">A passionate IOT developer from Viet Nam</h3>
 [![wakatime](https://wakatime.com/badge/user/ddc5de49-4e66-4a93-8464-d6d75994e9bc.svg)](https://wakatime.com/@ddc5de49-4e66-4a93-8464-d6d75994e9bc)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=chiraitori&label=Profile%20views&color=0e75b6&style=flat" alt="chiraitori" /> </p>
 
-### Social 
- 
- <p align="left"> <a href="https://discord.com/users/chiraitori" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/chiraitori" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/chiraitori" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chiraitori" alt="chiraitori" /></a> </p>
 
-<b>My GitHub Stats</b>
+- 👨‍💻 All of my projects are available at [https://www.chiraitori.io.vn/](https://www.chiraitori.io.vn/)
 
-<a href="http://www.github.com/chiraitori"><img src="https://github-readme-stats.vercel.app/api?username=chiraitori&show_icons=true&hide=&count_private=true&title_color=64748b&text_color=64748b&icon_color=ef4444&bg_color=171717&hide_border=true&show_icons=true" alt="Chiraitori's GitHub stats" /></a>
-<a href="http://www.github.com/chiraitori"><img src="https://github-readme-streak-stats.herokuapp.com/?user=chiraitori&stroke=64748b&background=171717&ring=64748b&fire=64748b&currStreakNum=64748b&currStreakLabel=64748b&sideNums=64748b&sideLabels=64748b&dates=64748b&hide_border=true" /></a>
-<a href="https://github.com/chiraitori" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chiraitori&langs_count=10&title_color=64748b&text_color=64748b&icon_color=ef4444&bg_color=171717&hide_border=true&locale=en&custom_title=Most%20Used%20Programming%20Languages" alt="Top Langs" /></a>\
-[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=chiraitori)](https://github.comtchiraitori)
+- 📫 How to reach me **contact@chiraitori.io.vn**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/chiraitori" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chiraitori" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/@chiraitori" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@chiraitori" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://svelte.dev" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+
+<h3 align="left">Support:</h3>
+<p><a href="https://ko-fi.com/chiraitori"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="chiraitori" /></a></p><br><br>
 
