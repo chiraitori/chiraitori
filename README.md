@@ -2,7 +2,7 @@
 <h3 align="center">A passionate IOT developer from Viet Nam</h3>
 <a href="https://wakatime.com/@ddc5de49-4e66-4a93-8464-d6d75994e9bc"><img src="https://wakatime.com/badge/user/ddc5de49-4e66-4a93-8464-d6d75994e9bc.svg" alt="Total time coded since Dec 9 2022" /></a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chiraitori&label=Profile%20views&color=0e75b6&style=flat" alt="chiraitori" /> </p>
-<img src="https://count.getloli.com/@chiraitori?name=chiraitori&theme=moebooru-h&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" alt=":name"  />
+<img src="https://count.getloli.com/@chiraitori?name=chiraitori&theme=booru-lewd&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" alt=":name"  />
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chiraitori" alt="chiraitori" /></a> </p>
 
