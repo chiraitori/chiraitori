@@ -6,7 +6,6 @@
   <a href="https://chiraitori.io.vn/"><img src="https://img.shields.io/badge/website-chiraitori.io.vn-161b22?style=flat-square&logo=googlechrome&logoColor=38bdf8" alt="Website" /></a>&nbsp;
   <a href="mailto:mail@chiraitori.io.vn"><img src="https://img.shields.io/badge/email-mail@chiraitori.io.vn-161b22?style=flat-square&logo=gmail&logoColor=ea4335" alt="Email" /></a>&nbsp;
   <a href="https://twitter.com/chiraitori"><img src="https://img.shields.io/badge/x%20%2F%20twitter-chiraitori-161b22?style=flat-square&logo=x&logoColor=white" alt="Twitter" /></a>&nbsp;
-  <a href="https://youtube.com/@chiraitori"><img src="https://img.shields.io/badge/youtube-@chiraitori-161b22?style=flat-square&logo=youtube&logoColor=ff0000" alt="YouTube" /></a>&nbsp;
   <a href="https://github.com/sponsors/chiraitori"><img src="https://img.shields.io/badge/sponsor-github-161b22?style=flat-square&logo=githubsponsors&logoColor=ea4aaa" alt="Sponsor" /></a>&nbsp;
   <a href="https://ko-fi.com/chiraitori"><img src="https://img.shields.io/badge/support-ko--fi-161b22?style=flat-square&logo=kofi&logoColor=ff5e5b" alt="Ko-fi" /></a>
 </p>
