@@ -24,8 +24,9 @@ Software engineer based in Ho Chi Minh City, Vietnam. Focused on low-level firmw
 | **[manga-trans](https://github.com/chiraitori/manga-trans)** | `Python` `MCP` `FastAPI` `Svelte` | Local-first Model Context Protocol (MCP) server and Web Studio for comic/manga scanlation, inpainting, and typesetting. |
 | **[Mizuki](https://github.com/chiraitori/Mizuki)** | `Kotlin` `Jetpack Compose` `M3` | High-performance, fluid video and audio downloader for Android. |
 | **[Anis](https://github.com/chiraitori/Anis)** | `Kotlin` `Jetpack Compose` `M3` | Local DNS sinkhole and per-application packet firewall for Android. |
-| **[koharu](https://github.com/chiraitori/koharu)** | `Rust` `Machine Learning` | High-throughput AI manga translation and text detection engine written in Rust. |
 | **[timeflytracking](https://github.com/chiraitori/timeflytracking)** | `C#` `.NET 8` `WinUI 3` | Native Windows 11 digital art focus tracker, stylus pressure diagnostics, and hardware telemetry. |
+| **[npv-player](https://github.com/chiraitori/npv-player)** | `C#` `WPF` `libmpv` | Desktop video player with MPV engine integration, anime OP/ED skip, and playback memory. |
+| **[phatnguoicheck-go](https://github.com/chiraitori/phatnguoicheck-go)** | `Go` `REST API` | Go microservice for checking Vietnam traffic violation fines via csgt.vn. |
 | **[HoYo_Code_Sender_Discord_Bot](https://github.com/chiraitori/HoYo_Code_Sender_Discord_Bot)** | `JavaScript` `Node.js` | Automated redemption code dispatcher and bot service for HoYoverse titles. |
 
 ---
@@ -34,7 +35,7 @@ Software engineer based in Ho Chi Minh City, Vietnam. Focused on low-level firmw
 
 ### Systems & Languages
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=c,cpp,go,rust,python,cs,kotlin,ts,js,dart&theme=dark" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=go,c,cpp,cs,kotlin,python,ts,js,dart&theme=dark" alt="Languages" />
 </a>
 
 ### Native, Web & Embedded
