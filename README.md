@@ -1,19 +1,58 @@
-# chiraitori
+<p align="center">
+  <img src="./assets/header.svg" width="100%" alt="chiraitori terminal header" />
+</p>
 
-`IoT & Embedded Systems` · `Android Internals` · `Local AI Tooling`
-
-Software engineer based in Ho Chi Minh City, Vietnam. Focused on low-level firmware, native Android engineering, and local-first AI tooling for digital media and scanlation.
-
-[Website](https://chiraitori.io.vn/) · [Email](mailto:mail@chiraitori.io.vn) · [Twitter / X](https://twitter.com/chiraitori) · [YouTube](https://youtube.com/@chiraitori) · [Sponsor](https://github.com/sponsors/chiraitori) · [Ko-fi](https://ko-fi.com/chiraitori)
+<p align="center">
+  <a href="https://chiraitori.io.vn/"><img src="https://img.shields.io/badge/website-chiraitori.io.vn-161b22?style=flat-square&logo=googlechrome&logoColor=38bdf8" alt="Website" /></a>&nbsp;
+  <a href="mailto:mail@chiraitori.io.vn"><img src="https://img.shields.io/badge/email-mail@chiraitori.io.vn-161b22?style=flat-square&logo=gmail&logoColor=ea4335" alt="Email" /></a>&nbsp;
+  <a href="https://twitter.com/chiraitori"><img src="https://img.shields.io/badge/x%20%2F%20twitter-chiraitori-161b22?style=flat-square&logo=x&logoColor=white" alt="Twitter" /></a>&nbsp;
+  <a href="https://youtube.com/@chiraitori"><img src="https://img.shields.io/badge/youtube-@chiraitori-161b22?style=flat-square&logo=youtube&logoColor=ff0000" alt="YouTube" /></a>&nbsp;
+  <a href="https://github.com/sponsors/chiraitori"><img src="https://img.shields.io/badge/sponsor-github-161b22?style=flat-square&logo=githubsponsors&logoColor=ea4aaa" alt="Sponsor" /></a>&nbsp;
+  <a href="https://ko-fi.com/chiraitori"><img src="https://img.shields.io/badge/support-ko--fi-161b22?style=flat-square&logo=kofi&logoColor=ff5e5b" alt="Ko-fi" /></a>
+</p>
 
 ---
 
-## Focus & Architecture
+## Architecture & Focus
 
-- **Low-Level & Embedded**: Firmware engineering with C, C++, and Go targeting ESP32, Arduino, and embedded Linux environments.
-- **Android & Mobile Engineering**: Native applications built with Jetpack Compose & Material 3 (Anis, Mizuki) alongside cross-platform manga readers using React Native (paperand).
-- **Local-First AI & Media Tooling**: Developing Model Context Protocol (MCP) servers and desktop toolchains for scanlation, inpainting, and graphics tablet telemetry.
-- **Storage & Databases**: Relational modeling with Microsoft SQL Server (T-SQL) and SQLite (embedded/Android), alongside document storage with MongoDB.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>📡 Low-Level &amp; Embedded Systems</h4>
+      <ul>
+        <li>Firmware development targeting ESP32, Arduino, and embedded Linux boards.</li>
+        <li>Hardware interfacing and communication bus protocols in C, C++, and Go.</li>
+        <li>Sensors, custom peripherals, and IoT telemetry bridges.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4>📱 Android &amp; Cross-Platform Native</h4>
+      <ul>
+        <li>Native Android engineering with Kotlin, Jetpack Compose, and Material 3.</li>
+        <li>Per-application packet firewalls and local DNS sinkholes (<code>Anis</code>).</li>
+        <li>Cross-platform manga reader client with React Native &amp; Expo (<code>paperand</code>).</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>⚡ Local-First AI &amp; Media Tooling</h4>
+      <ul>
+        <li>Model Context Protocol (MCP) servers for autonomous tool integration.</li>
+        <li>Computer vision, inpainting, and typesetting studios (<code>manga-trans</code>).</li>
+        <li>Digital art diagnostics and stylus pressure telemetry (<code>timeflytracking</code>).</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🗄️ Relational &amp; Document Storage</h4>
+      <ul>
+        <li>Enterprise relational database schemas with Microsoft SQL Server (T-SQL).</li>
+        <li>High-throughput local SQLite databases for Android Room and offline tools.</li>
+        <li>Document-oriented persistence with MongoDB.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -21,8 +60,8 @@ Software engineer based in Ho Chi Minh City, Vietnam. Focused on low-level firmw
 
 | Project | Stack | Overview |
 | :--- | :--- | :--- |
-| **[manga-trans](https://github.com/chiraitori/manga-trans)** | `Python` `MCP` `FastAPI` `Svelte` | Local-first Model Context Protocol (MCP) server and Web Studio for comic/manga scanlation, inpainting, and typesetting. |
-| **[paperand](https://github.com/chiraitori/paperand)** | `TypeScript` `React Native` `Expo` | Ad-free manga reader application for Android & iOS based on the Paperback 0.8 extension framework. |
+| **[manga-trans](https://github.com/chiraitori/manga-trans)** | `Python` `MCP` `FastAPI` `Svelte` | Local-first Model Context Protocol (MCP) server &amp; Web Studio for comic scanlation, inpainting, and typesetting. |
+| **[paperand](https://github.com/chiraitori/paperand)** | `TypeScript` `React Native` `Expo` | Ad-free manga reader application for Android &amp; iOS based on the Paperback 0.8 extension framework. |
 | **[Mizuki](https://github.com/chiraitori/Mizuki)** | `Kotlin` `Jetpack Compose` `M3` | High-performance, fluid video and audio downloader for Android. |
 | **[Anis](https://github.com/chiraitori/Anis)** | `Kotlin` `Jetpack Compose` `M3` | Local DNS sinkhole and per-application packet firewall for Android. |
 | **[timeflytracking](https://github.com/chiraitori/timeflytracking)** | `C#` `.NET 8` `WinUI 3` | Native Windows 11 digital art focus tracker, stylus pressure diagnostics, and hardware telemetry. |
