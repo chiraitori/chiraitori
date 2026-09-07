@@ -121,6 +121,19 @@
 ## Development Metrics
 
 <!--START_SECTION:waka-->
+
+```txt
+From: 08 December 2022 - To: 06 September 2026
+
+Total Time: 379 hrs 50 mins
+
+JavaScript          68 hrs 35 mins        >>>>>--------------------   18.06 %
+TypeScript          48 hrs 30 mins        >>>----------------------   12.77 %
+Svelte              33 hrs 32 mins        >>-----------------------   08.83 %
+Vue.js              28 hrs 23 mins        >>-----------------------   07.48 %
+C++                 27 hrs 2 mins         >>-----------------------   07.12 %
+```
+
 <!--END_SECTION:waka-->
 
 ---
