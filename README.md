@@ -13,6 +13,7 @@ Software engineer based in Ho Chi Minh City, Vietnam. Focused on low-level firmw
 - **Low-Level & Embedded**: Firmware engineering with C, C++, and Go targeting ESP32, Arduino, and embedded Linux environments.
 - **Android Engineering**: Native applications built strictly with modern Jetpack Compose and Material 3, emphasizing local privacy, network routing, and fluid media pipelines.
 - **Local-First AI & Media Tooling**: Developing Model Context Protocol (MCP) servers and desktop toolchains for scanlation, inpainting, and graphics tablet telemetry.
+- **Storage & Databases**: Relational modeling with Microsoft SQL Server (T-SQL) and SQLite (embedded/Android), alongside document storage with MongoDB.
 
 ---
 
@@ -41,9 +42,12 @@ Software engineer based in Ho Chi Minh City, Vietnam. Focused on low-level firmw
   <img src="https://skillicons.dev/icons?i=androidstudio,flutter,arduino,raspberrypi,linux,svelte,vue,tailwind&theme=dark" alt="Frameworks and Platforms" />
 </a>
 
-### Infrastructure & Tooling
+### Databases & Infrastructure
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=docker,mysql,mongodb,git,github,vscode&theme=dark" alt="Infrastructure and Tooling" />
+  <img src="https://skillicons.dev/icons?i=docker,mongodb,sqlite,git,github,vscode&theme=dark" alt="Databases and Infrastructure" />
+</a>
+<a href="https://www.microsoft.com/sql-server" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="48" height="48" alt="Microsoft SQL Server" title="Microsoft SQL Server" style="vertical-align: top; margin-left: 4px;" />
 </a>
 
 ---
