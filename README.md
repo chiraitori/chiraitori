@@ -11,7 +11,7 @@ Software engineer based in Ho Chi Minh City, Vietnam. Focused on low-level firmw
 ## Focus & Architecture
 
 - **Low-Level & Embedded**: Firmware engineering with C, C++, and Go targeting ESP32, Arduino, and embedded Linux environments.
-- **Android Engineering**: Native applications built strictly with modern Jetpack Compose and Material 3, emphasizing local privacy, network routing, and fluid media pipelines.
+- **Android & Mobile Engineering**: Native applications built with Jetpack Compose & Material 3 (Anis, Mizuki) alongside cross-platform manga readers using React Native (paperand).
 - **Local-First AI & Media Tooling**: Developing Model Context Protocol (MCP) servers and desktop toolchains for scanlation, inpainting, and graphics tablet telemetry.
 - **Storage & Databases**: Relational modeling with Microsoft SQL Server (T-SQL) and SQLite (embedded/Android), alongside document storage with MongoDB.
 
@@ -22,6 +22,7 @@ Software engineer based in Ho Chi Minh City, Vietnam. Focused on low-level firmw
 | Project | Stack | Overview |
 | :--- | :--- | :--- |
 | **[manga-trans](https://github.com/chiraitori/manga-trans)** | `Python` `MCP` `FastAPI` `Svelte` | Local-first Model Context Protocol (MCP) server and Web Studio for comic/manga scanlation, inpainting, and typesetting. |
+| **[paperand](https://github.com/chiraitori/paperand)** | `TypeScript` `React Native` `Expo` | Ad-free manga reader application for Android & iOS based on the Paperback 0.8 extension framework. |
 | **[Mizuki](https://github.com/chiraitori/Mizuki)** | `Kotlin` `Jetpack Compose` `M3` | High-performance, fluid video and audio downloader for Android. |
 | **[Anis](https://github.com/chiraitori/Anis)** | `Kotlin` `Jetpack Compose` `M3` | Local DNS sinkhole and per-application packet firewall for Android. |
 | **[timeflytracking](https://github.com/chiraitori/timeflytracking)** | `C#` `.NET 8` `WinUI 3` | Native Windows 11 digital art focus tracker, stylus pressure diagnostics, and hardware telemetry. |
@@ -39,7 +40,7 @@ Software engineer based in Ho Chi Minh City, Vietnam. Focused on low-level firmw
 
 ### Native, Web & Embedded
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=androidstudio,flutter,arduino,raspberrypi,linux,svelte,vue,tailwind&theme=dark" alt="Frameworks and Platforms" />
+  <img src="https://skillicons.dev/icons?i=androidstudio,flutter,react,arduino,raspberrypi,linux,svelte,vue,tailwind&theme=dark" alt="Frameworks and Platforms" />
 </a>
 
 ### Databases & Infrastructure
