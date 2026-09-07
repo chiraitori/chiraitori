@@ -43,7 +43,7 @@ Software engineer based in Ho Chi Minh City, Vietnam. Focused on low-level firmw
 
 ### Infrastructure & Tooling
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=docker,postgres,mongodb,git,github,postman,vscode&theme=dark" alt="Infrastructure and Tooling" />
+  <img src="https://skillicons.dev/icons?i=docker,mysql,mongodb,git,github,vscode&theme=dark" alt="Infrastructure and Tooling" />
 </a>
 
 ---
