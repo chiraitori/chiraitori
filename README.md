@@ -25,7 +25,6 @@ Software engineer based in Ho Chi Minh City, Vietnam. Focused on low-level firmw
 | **[Mizuki](https://github.com/chiraitori/Mizuki)** | `Kotlin` `Jetpack Compose` `M3` | High-performance, fluid video and audio downloader for Android. |
 | **[Anis](https://github.com/chiraitori/Anis)** | `Kotlin` `Jetpack Compose` `M3` | Local DNS sinkhole and per-application packet firewall for Android. |
 | **[timeflytracking](https://github.com/chiraitori/timeflytracking)** | `C#` `.NET 8` `WinUI 3` | Native Windows 11 digital art focus tracker, stylus pressure diagnostics, and hardware telemetry. |
-| **[npv-player](https://github.com/chiraitori/npv-player)** | `C#` `WPF` `libmpv` | Desktop video player with MPV engine integration, anime OP/ED skip, and playback memory. |
 | **[phatnguoicheck-go](https://github.com/chiraitori/phatnguoicheck-go)** | `Go` `REST API` | Go microservice for checking Vietnam traffic violation fines via csgt.vn. |
 | **[HoYo_Code_Sender_Discord_Bot](https://github.com/chiraitori/HoYo_Code_Sender_Discord_Bot)** | `JavaScript` `Node.js` | Automated redemption code dispatcher and bot service for HoYoverse titles. |
 
