@@ -35,19 +35,19 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4>⚡ Local-First AI &amp; Media Tooling</h4>
+      <h4>🛡️ Linux VPS &amp; Network Security</h4>
       <ul>
-        <li>Model Context Protocol (MCP) servers for autonomous tool integration.</li>
-        <li>Computer vision, inpainting, and typesetting studios (<code>manga-trans</code>).</li>
-        <li>Digital art diagnostics and stylus pressure telemetry (<code>timeflytracking</code>).</li>
+        <li>Linux server hardening: SSH key-only policies, UFW / IPTables / NFTables filtering.</li>
+        <li>Encrypted networking: WireGuard &amp; Tailscale tunnels, reverse proxies with automated TLS.</li>
+        <li>DNS sinkholes, local packet inspection, and firewall architectures (<code>Anis</code>).</li>
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h4>🗄️ Relational &amp; Document Storage</h4>
+      <h4>⚡ Local AI, Tools &amp; Storage</h4>
       <ul>
-        <li>Enterprise relational database schemas with Microsoft SQL Server (T-SQL).</li>
-        <li>High-throughput local SQLite databases for Android Room and offline tools.</li>
-        <li>Document-oriented persistence with MongoDB.</li>
+        <li>Model Context Protocol (MCP) servers &amp; automated media studios (<code>manga-trans</code>).</li>
+        <li>Digital art diagnostics and stylus pressure telemetry (<code>timeflytracking</code>).</li>
+        <li>Relational schemas with Microsoft SQL Server (T-SQL), SQLite &amp; MongoDB.</li>
       </ul>
     </td>
   </tr>
